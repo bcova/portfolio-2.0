@@ -24,5 +24,5 @@ module.exports = {
       'layout': '200px minmax(900px, 1fr) 100px',
     }
   }},
-  plugins: [require("tw-elements/dist/plugin")],
+  plugins: [require("daisyui")],
 }
