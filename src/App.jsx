@@ -1,6 +1,5 @@
 import "./index.css";
-import Navbar from "./components/Navbar";
-import About from "./components/About";
+import Navbar from "./components/portfolio";
 import React from "react";
 
 function App() {
